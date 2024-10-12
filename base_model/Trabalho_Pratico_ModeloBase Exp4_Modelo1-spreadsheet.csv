@@ -1,0 +1,21 @@
+Column1;Column2;Column3;Column4;Column5;Column6;Column7;Column8;Column9;Column10;Column11;Column12;Column13;Column14;Column15;Column16;Column17;Column18;Column19;Column20;Column21;Column22;Column23;Column24;Column25;Column26;Column27;Column28;Column29;Column30;Column31
+BehaviorSpace results (NetLogo 6.2.0);;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Trabalho_Pratico_ModeloBase.nlogo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Exp4_Modelo1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+11/10/2021 16:35:27:356 +0000;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+min-pxcor;max-pxcor;min-pycor;max-pycor;;;;;;;;;;;;;;;;;;;;;;;;;;;
+-16;16;-16;16;;;;;;;;;;;;;;;;;;;;;;;;;;;
+[run number];1;1;1;2;2;2;3;3;3;4;4;4;5;5;5;6;6;6;7;7;7;8;8;8;9;9;9;10;10;10
+energiainicial;100;;;100;;;100;;;100;;;100;;;100;;;100;;;100;;;100;;;100;;
+limpadoresnum;10;;;10;;;10;;;10;;;10;;;10;;;10;;;10;;;10;;;10;;
+Lixo_toxico;5;;;5;;;5;;;5;;;5;;;5;;;5;;;5;;;5;;;5;;
+Add_Energia;10;;;10;;;10;;;10;;;10;;;10;;;10;;;10;;;10;;;10;;
+Alimento;15;;;15;;;15;;;15;;;15;;;15;;;15;;;15;;;15;;;15;;
+nDepositos;2;;;2;;;2;;;2;;;2;;;2;;;2;;;2;;;2;;;2;;
+Lixo_Normal;5;;;5;;;5;;;5;;;5;;;5;;;5;;;5;;;5;;;5;;
+Limite_residuos;2;;;2;;;2;;;2;;;2;;;2;;;2;;;2;;;2;;;2;;
+ComiloesNum;5;;;5;;;5;;;5;;;5;;;5;;;5;;;5;;;5;;;5;;
+[steps];2500;2500;2500;2500;2500;2500;2500;2500;2500;2500;2500;2500;2500;2500;2500;2500;2500;2500;2500;2500;2500;2500;2500;2500;2500;2500;2500;2500;2500;2500
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+[initial & final values];Count comiloes;Count limpadores;Count turtles;Count comiloes;Count limpadores;Count turtles;Count comiloes;Count limpadores;Count turtles;Count comiloes;Count limpadores;Count turtles;Count comiloes;Count limpadores;Count turtles;Count comiloes;Count limpadores;Count turtles;Count comiloes;Count limpadores;Count turtles;Count comiloes;Count limpadores;Count turtles;Count comiloes;Count limpadores;Count turtles;Count comiloes;Count limpadores;Count turtles
+;0;0;0;2;0;2;0;0;0;0;0;0;0;0;0;3;0;3;0;0;0;2;0;2;0;0;0;0;0;0

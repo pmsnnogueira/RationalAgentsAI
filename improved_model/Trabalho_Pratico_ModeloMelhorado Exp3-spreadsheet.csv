@@ -1,0 +1,28 @@
+Column1;Column2;Column3;Column4;Column5;Column6;Column7;Column8;Column9;Column10;Column11;Column12;Column13;Column14;Column15;Column16;Column17;Column18;Column19;Column20;Column21;Column22;Column23;Column24;Column25;Column26;Column27;Column28;Column29;Column30;Column31;Column32;Column33;Column34;Column35;Column36;Column37;Column38;Column39;Column40;Column41
+BehaviorSpace results (NetLogo 6.2.0);;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Trabalho_Pratico_ModeloMelhorado.nlogo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Exp3;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+11/12/2021 15:31:41:876 +0000;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+min-pxcor;max-pxcor;min-pycor;max-pycor;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+-16;16;-16;16;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+[run number];1;1;1;1;2;2;2;2;3;3;3;3;4;4;4;4;5;5;5;5;6;6;6;6;7;7;7;7;8;8;8;8;9;9;9;9;10;10;10;10
+Retirar_Energia;10;;;;10;;;;10;;;;10;;;;10;;;;10;;;;10;;;;10;;;;10;;;;10;;;
+CacadoresNum;2;;;;2;;;;2;;;;2;;;;2;;;;2;;;;2;;;;2;;;;2;;;;2;;;
+limpadoresnum;25;;;;25;;;;25;;;;25;;;;25;;;;25;;;;25;;;;25;;;;25;;;;25;;;
+nDepositos;5;;;;5;;;;5;;;;5;;;;5;;;;5;;;;5;;;;5;;;;5;;;;5;;;
+Cor_Limpadores;135;;;;135;;;;135;;;;135;;;;135;;;;135;;;;135;;;;135;;;;135;;;;135;;;
+Limite_residuos;5;;;;5;;;;5;;;;5;;;;5;;;;5;;;;5;;;;5;;;;5;;;;5;;;
+energiainicial;100;;;;100;;;;100;;;;100;;;;100;;;;100;;;;100;;;;100;;;;100;;;;100;;;
+Cor_Comiloes;25;;;;25;;;;25;;;;25;;;;25;;;;25;;;;25;;;;25;;;;25;;;;25;;;
+Lixo_toxico;10;;;;10;;;;10;;;;10;;;;10;;;;10;;;;10;;;;10;;;;10;;;;10;;;
+Alimento;20;;;;20;;;;20;;;;20;;;;20;;;;20;;;;20;;;;20;;;;20;;;;20;;;
+Add_Energia;40;;;;40;;;;40;;;;40;;;;40;;;;40;;;;40;;;;40;;;;40;;;;40;;;
+Reproducao?;false;;;;false;;;;false;;;;false;;;;false;;;;false;;;;false;;;;false;;;;false;;;;false;;;
+Lixo_Normal;10;;;;10;;;;10;;;;10;;;;10;;;;10;;;;10;;;;10;;;;10;;;;10;;;
+ComiloesNum;25;;;;25;;;;25;;;;25;;;;25;;;;25;;;;25;;;;25;;;;25;;;;25;;;
+Cor_Cacadores;5;;;;5;;;;5;;;;5;;;;5;;;;5;;;;5;;;;5;;;;5;;;;5;;;
+ticc;250;;;;250;;;;250;;;;250;;;;250;;;;250;;;;250;;;;250;;;;250;;;;250;;;
+[steps];10000;10000;10000;10000;10000;10000;10000;10000;10000;10000;10000;10000;10000;10000;10000;10000;10000;10000;10000;10000;10000;10000;10000;10000;10000;10000;10000;10000;10000;10000;10000;10000;10000;10000;10000;10000;10000;10000;10000;10000
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+[initial & final values];count comiloes;count limpadores;count cacadores;count turtles;count comiloes;count limpadores;count cacadores;count turtles;count comiloes;count limpadores;count cacadores;count turtles;count comiloes;count limpadores;count cacadores;count turtles;count comiloes;count limpadores;count cacadores;count turtles;count comiloes;count limpadores;count cacadores;count turtles;count comiloes;count limpadores;count cacadores;count turtles;count comiloes;count limpadores;count cacadores;count turtles;count comiloes;count limpadores;count cacadores;count turtles;count comiloes;count limpadores;count cacadores;count turtles
+;19;25;2;46;8;25;2;35;12;25;2;39;15;25;2;42;7;25;2;34;14;25;2;41;19;25;2;46;10;25;2;37;12;25;2;39;17;25;2;44
